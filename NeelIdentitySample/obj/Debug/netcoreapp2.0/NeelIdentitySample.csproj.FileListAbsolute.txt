@@ -1,0 +1,12 @@
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\bin\Debug\netcoreapp2.0\NeelIdentitySample.deps.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\bin\Debug\netcoreapp2.0\NeelIdentitySample.runtimeconfig.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\bin\Debug\netcoreapp2.0\NeelIdentitySample.runtimeconfig.dev.json
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\bin\Debug\netcoreapp2.0\NeelIdentitySample.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\bin\Debug\netcoreapp2.0\NeelIdentitySample.pdb
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\obj\Debug\netcoreapp2.0\NeelIdentitySample.csprojResolveAssemblyReference.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\obj\Debug\netcoreapp2.0\NeelIdentitySample.csproj.CoreCompileInputs.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\obj\Debug\netcoreapp2.0\NeelIdentitySample.AssemblyInfoInputs.cache
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\obj\Debug\netcoreapp2.0\NeelIdentitySample.AssemblyInfo.cs
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\obj\Debug\netcoreapp2.0\NeelIdentitySample.dll
+c:\users\e074368\documents\visual studio 2017\Projects\NeelIdentitySample\NeelIdentitySample\obj\Debug\netcoreapp2.0\NeelIdentitySample.pdb
